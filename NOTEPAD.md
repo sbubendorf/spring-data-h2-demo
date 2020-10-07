@@ -2,3 +2,6 @@
 
 ###Tutorial
 https://www.baeldung.com/spring-boot-h2-database
+
+###H2 Console
+http://localhost:8080/h2-console
